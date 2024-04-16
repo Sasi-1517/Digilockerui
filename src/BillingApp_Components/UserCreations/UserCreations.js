@@ -284,9 +284,7 @@ function CustomEditComponent(props) {
                     //     })
                     ]}
                     options={{
-                        actionsColumnIndex: -1,
-                        sorting: true,
-                        exportButton: true,
+                        search: false,
                         pageSize: 10
                     }}
                     localization={{

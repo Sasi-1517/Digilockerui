@@ -295,9 +295,10 @@ function Attendance() {
 
 
                 options={{
-                    actionsColumnIndex: -1,
-                    sorting: true,
-                    exportButton: true,
+                    search: false,
+                    // actionsColumnIndex: -1,
+                    // sorting: true,
+                    // exportButton: true,
                     pageSize: 10,
                 }}
                 localization={{
